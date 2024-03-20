@@ -1,64 +1,64 @@
-code,name,name_en,full_name,full_name_en,code_name
-01,Hà Nội,Ha Noi,Thành phố Hà Nội,Ha Noi City,ha_noi
-02,Hà Giang,Ha Giang,Tỉnh Hà Giang,Ha Giang Province,ha_giang
-04,Cao Bằng,Cao Bang,Tỉnh Cao Bằng,Cao Bang Province,cao_bang
-06,Bắc Kạn,Bac Kan,Tỉnh Bắc Kạn,Bac Kan Province,bac_kan
-08,Tuyên Quang,Tuyen Quang,Tỉnh Tuyên Quang,Tuyen Quang Province,tuyen_quang
-10,Lào Cai,Lao Cai,Tỉnh Lào Cai,Lao Cai Province,lao_cai
-11,Điện Biên,Dien Bien,Tỉnh Điện Biên,Dien Bien Province,dien_bien
-12,Lai Châu,Lai Chau,Tỉnh Lai Châu,Lai Chau Province,lai_chau
-14,Sơn La,Son La,Tỉnh Sơn La,Son La Province,son_la
-15,Yên Bái,Yen Bai,Tỉnh Yên Bái,Yen Bai Province,yen_bai
-17,Hoà Bình,Hoa Binh,Tỉnh Hoà Bình,Hoa Binh Province,hoa_binh
-19,Thái Nguyên,Thai Nguyen,Tỉnh Thái Nguyên,Thai Nguyen Province,thai_nguyen
-20,Lạng Sơn,Lang Son,Tỉnh Lạng Sơn,Lang Son Province,lang_son
-22,Quảng Ninh,Quang Ninh,Tỉnh Quảng Ninh,Quang Ninh Province,quang_ninh
-24,Bắc Giang,Bac Giang,Tỉnh Bắc Giang,Bac Giang Province,bac_giang
-25,Phú Thọ,Phu Tho,Tỉnh Phú Thọ,Phu Tho Province,phu_tho
-26,Vĩnh Phúc,Vinh Phuc,Tỉnh Vĩnh Phúc,Vinh Phuc Province,vinh_phuc
-27,Bắc Ninh,Bac Ninh,Tỉnh Bắc Ninh,Bac Ninh Province,bac_ninh
-30,Hải Dương,Hai Duong,Tỉnh Hải Dương,Hai Duong Province,hai_duong
-31,Hải Phòng,Hai Phong,Thành phố Hải Phòng,Hai Phong City,hai_phong
-33,Hưng Yên,Hung Yen,Tỉnh Hưng Yên,Hung Yen Province,hung_yen
-34,Thái Bình,Thai Binh,Tỉnh Thái Bình,Thai Binh Province,thai_binh
-35,Hà Nam,Ha Nam,Tỉnh Hà Nam,Ha Nam Province,ha_nam
-36,Nam Định,Nam Dinh,Tỉnh Nam Định,Nam Dinh Province,nam_dinh
-37,Ninh Bình,Ninh Binh,Tỉnh Ninh Bình,Ninh Binh Province,ninh_binh
-38,Thanh Hóa,Thanh Hoa,Tỉnh Thanh Hóa,Thanh Hoa Province,thanh_hoa
-40,Nghệ An,Nghe An,Tỉnh Nghệ An,Nghe An Province,nghe_an
-42,Hà Tĩnh,Ha Tinh,Tỉnh Hà Tĩnh,Ha Tinh Province,ha_tinh
-44,Quảng Bình,Quang Binh,Tỉnh Quảng Bình,Quang Binh Province,quang_binh
-45,Quảng Trị,Quang Tri,Tỉnh Quảng Trị,Quang Tri Province,quang_tri
-46,Thừa Thiên Huế,Thua Thien Hue,Tỉnh Thừa Thiên Huế,Thua Thien Hue Province,thua_thien_hue
-48,Đà Nẵng,Da Nang,Thành phố Đà Nẵng,Da Nang City,da_nang
-49,Quảng Nam,Quang Nam,Tỉnh Quảng Nam,Quang Nam Province,quang_nam
-51,Quảng Ngãi,Quang Ngai,Tỉnh Quảng Ngãi,Quang Ngai Province,quang_ngai
-52,Bình Định,Binh Dinh,Tỉnh Bình Định,Binh Dinh Province,binh_dinh
-54,Phú Yên,Phu Yen,Tỉnh Phú Yên,Phu Yen Province,phu_yen
-56,Khánh Hòa,Khanh Hoa,Tỉnh Khánh Hòa,Khanh Hoa Province,khanh_hoa
-58,Ninh Thuận,Ninh Thuan,Tỉnh Ninh Thuận,Ninh Thuan Province,ninh_thuan
-60,Bình Thuận,Binh Thuan,Tỉnh Bình Thuận,Binh Thuan Province,binh_thuan
-62,Kon Tum,Kon Tum,Tỉnh Kon Tum,Kon Tum Province,kon_tum
-64,Gia Lai,Gia Lai,Tỉnh Gia Lai,Gia Lai Province,gia_lai
-66,Đắk Lắk,Dak Lak,Tỉnh Đắk Lắk,Dak Lak Province,dak_lak
-67,Đắk Nông,Dak Nong,Tỉnh Đắk Nông,Dak Nong Province,dak_nong
-68,Lâm Đồng,Lam Dong,Tỉnh Lâm Đồng,Lam Dong Province,lam_dong
-70,Bình Phước,Binh Phuoc,Tỉnh Bình Phước,Binh Phuoc Province,binh_phuoc
-72,Tây Ninh,Tay Ninh,Tỉnh Tây Ninh,Tay Ninh Province,tay_ninh
-74,Bình Dương,Binh Duong,Tỉnh Bình Dương,Binh Duong Province,binh_duong
-75,Đồng Nai,Dong Nai,Tỉnh Đồng Nai,Dong Nai Province,dong_nai
-77,Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau,Tỉnh Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau Province,ba_ria_vung_tau
-79,Hồ Chí Minh,Ho Chi Minh,Thành phố Hồ Chí Minh,Ho Chi Minh City,ho_chi_minh
-80,Long An,Long An,Tỉnh Long An,Long An Province,long_an
-82,Tiền Giang,Tien Giang,Tỉnh Tiền Giang,Tien Giang Province,tien_giang
-83,Bến Tre,Ben Tre,Tỉnh Bến Tre,Ben Tre Province,ben_tre
-84,Trà Vinh,Tra Vinh,Tỉnh Trà Vinh,Tra Vinh Province,tra_vinh
-86,Vĩnh Long,Vinh Long,Tỉnh Vĩnh Long,Vinh Long Province,vinh_long
-87,Đồng Tháp,Dong Thap,Tỉnh Đồng Tháp,Dong Thap Province,dong_thap
-89,An Giang,An Giang,Tỉnh An Giang,An Giang Province,an_giang
-91,Kiên Giang,Kien Giang,Tỉnh Kiên Giang,Kien Giang Province,kien_giang
-92,Cần Thơ,Can Tho,Thành phố Cần Thơ,Can Tho City,can_tho
-93,Hậu Giang,Hau Giang,Tỉnh Hậu Giang,Hau Giang Province,hau_giang
-94,Sóc Trăng,Soc Trang,Tỉnh Sóc Trăng,Soc Trang Province,soc_trang
-95,Bạc Liêu,Bac Lieu,Tỉnh Bạc Liêu,Bac Lieu Province,bac_lieu
-96,Cà Mau,Ca Mau,Tỉnh Cà Mau,Ca Mau Province,ca_mau
+code,name,name_en,full_name,full_name_en,code_name,center
+01,Hà Nội,Ha Noi,Thành phố Hà Nội,Ha Noi City,ha_noi,"21.0283334, 105.854041"
+02,Hà Giang,Ha Giang,Tỉnh Hà Giang,Ha Giang Province,ha_giang,"22.7336097, 105.0027271"
+04,Cao Bằng,Cao Bang,Tỉnh Cao Bằng,Cao Bang Province,cao_bang,"22.7426936, 106.1060926"
+06,Bắc Kạn,Bac Kan,Tỉnh Bắc Kạn,Bac Kan Province,bac_kan,"22.2571701, 105.8204437"
+08,Tuyên Quang,Tuyen Quang,Tỉnh Tuyên Quang,Tuyen Quang Province,tuyen_quang,"22.0747798, 105.258411"
+10,Lào Cai,Lao Cai,Tỉnh Lào Cai,Lao Cai Province,lao_cai,"22.3069302, 104.1829592"
+11,Điện Biên,Dien Bien,Tỉnh Điện Biên,Dien Bien Province,dien_bien,"21.6546566, 103.2168632"
+12,Lai Châu,Lai Chau,Tỉnh Lai Châu,Lai Chau Province,lai_chau,"22.2921668, 103.1798662"
+14,Sơn La,Son La,Tỉnh Sơn La,Son La Province,son_la,"21.2276769, 104.1575944"
+15,Yên Bái,Yen Bai,Tỉnh Yên Bái,Yen Bai Province,yen_bai,"21.8268679, 104.663122"
+17,Hoà Bình,Hoa Binh,Tỉnh Hoà Bình,Hoa Binh Province,hoa_binh,"20.6763365, 105.3759952"
+19,Thái Nguyên,Thai Nguyen,Tỉnh Thái Nguyên,Thai Nguyen Province,thai_nguyen,"21.6498502, 105.8351394"
+20,Lạng Sơn,Lang Son,Tỉnh Lạng Sơn,Lang Son Province,lang_son,"21.8487579, 106.6140692"
+22,Quảng Ninh,Quang Ninh,Tỉnh Quảng Ninh,Quang Ninh Province,quang_ninh,"21.1718046, 107.2012742"
+24,Bắc Giang,Bac Giang,Tỉnh Bắc Giang,Bac Giang Province,bac_giang,"21.3169625, 106.437985"
+25,Phú Thọ,Phu Tho,Tỉnh Phú Thọ,Phu Tho Province,phu_tho,"21.3007538, 105.1349604"
+26,Vĩnh Phúc,Vinh Phuc,Tỉnh Vĩnh Phúc,Vinh Phuc Province,vinh_phuc,"21.3778689, 105.5758286"
+27,Bắc Ninh,Bac Ninh,Tỉnh Bắc Ninh,Bac Ninh Province,bac_ninh,"21.0955822, 106.1264766"
+30,Hải Dương,Hai Duong,Tỉnh Hải Dương,Hai Duong Province,hai_duong,"20.8930571, 106.3725441"
+31,Hải Phòng,Hai Phong,Thành phố Hải Phòng,Hai Phong City,hai_phong,"20.858864, 106.6749591"
+33,Hưng Yên,Hung Yen,Tỉnh Hưng Yên,Hung Yen Province,hung_yen,"20.7833912, 106.0699025"
+34,Thái Bình,Thai Binh,Tỉnh Thái Bình,Thai Binh Province,thai_binh,"20.5296832, 106.3876068"
+35,Hà Nam,Ha Nam,Tỉnh Hà Nam,Ha Nam Province,ha_nam,"20.5340294, 105.98102482169935"
+36,Nam Định,Nam Dinh,Tỉnh Nam Định,Nam Dinh Province,nam_dinh,"20.2686476, 106.2289075"
+37,Ninh Bình,Ninh Binh,Tỉnh Ninh Bình,Ninh Binh Province,ninh_binh,"20.2051051, 105.9280678"
+38,Thanh Hóa,Thanh Hoa,Tỉnh Thanh Hóa,Thanh Hoa Province,thanh_hoa,"19.9781573, 105.4816107"
+40,Nghệ An,Nghe An,Tỉnh Nghệ An,Nghe An Province,nghe_an,"19.1976001, 105.060676"
+42,Hà Tĩnh,Ha Tinh,Tỉnh Hà Tĩnh,Ha Tinh Province,ha_tinh,"18.3504832, 105.7623047"
+44,Quảng Bình,Quang Binh,Tỉnh Quảng Bình,Quang Binh Province,quang_binh,"17.509599, 106.4004452"
+45,Quảng Trị,Quang Tri,Tỉnh Quảng Trị,Quang Tri Province,quang_tri,"16.7897806, 106.9797431"
+46,Thừa Thiên Huế,Thua Thien Hue,Tỉnh Thừa Thiên Huế,Thua Thien Hue Province,thua_thien_hue,"16.3480798, 107.5398913"
+48,Đà Nẵng,Da Nang,Thành phố Đà Nẵng,Da Nang City,da_nang,"16.068, 108.212"
+49,Quảng Nam,Quang Nam,Tỉnh Quảng Nam,Quang Nam Province,quang_nam,"15.5761698, 108.0527132"
+51,Quảng Ngãi,Quang Ngai,Tỉnh Quảng Ngãi,Quang Ngai Province,quang_ngai,"14.9953739, 108.691729"
+52,Bình Định,Binh Dinh,Tỉnh Bình Định,Binh Dinh Province,binh_dinh,"14.0779378, 108.9898798"
+54,Phú Yên,Phu Yen,Tỉnh Phú Yên,Phu Yen Province,phu_yen,"13.1912633, 109.1273678"
+56,Khánh Hòa,Khanh Hoa,Tỉnh Khánh Hòa,Khanh Hoa Province,khanh_hoa,"12.2980751, 108.9950386"
+58,Ninh Thuận,Ninh Thuan,Tỉnh Ninh Thuận,Ninh Thuan Province,ninh_thuan,"11.6965639, 108.8928476"
+60,Bình Thuận,Binh Thuan,Tỉnh Bình Thuận,Binh Thuan Province,binh_thuan,"11.1041572, 108.1832931"
+62,Kon Tum,Kon Tum,Tỉnh Kon Tum,Kon Tum Province,kon_tum,"14.6995372, 107.9323831"
+64,Gia Lai,Gia Lai,Tỉnh Gia Lai,Gia Lai Province,gia_lai,"13.8177445, 108.2004015"
+66,Đắk Lắk,Dak Lak,Tỉnh Đắk Lắk,Dak Lak Province,dak_lak,"12.8292274, 108.2999058"
+67,Đắk Nông,Dak Nong,Tỉnh Đắk Nông,Dak Nong Province,dak_nong,"12.2818851, 107.7302484"
+68,Lâm Đồng,Lam Dong,Tỉnh Lâm Đồng,Lam Dong Province,lam_dong,"11.6614957, 108.1335279"
+70,Bình Phước,Binh Phuoc,Tỉnh Bình Phước,Binh Phuoc Province,binh_phuoc,"11.7543232, 106.9266473"
+72,Tây Ninh,Tay Ninh,Tỉnh Tây Ninh,Tay Ninh Province,tay_ninh,"11.4019366, 106.1626927"
+74,Bình Dương,Binh Duong,Tỉnh Bình Dương,Binh Duong Province,binh_duong,"11.1836551, 106.7031737"
+75,Đồng Nai,Dong Nai,Tỉnh Đồng Nai,Dong Nai Province,dong_nai,"11.0355624, 107.1881076"
+77,Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau,Tỉnh Bà Rịa - Vũng Tàu,Ba Ria - Vung Tau Province,ba_ria_vung_tau,"10.5738801, 107.3284362"
+79,Hồ Chí Minh,Ho Chi Minh,Thành phố Hồ Chí Minh,Ho Chi Minh City,ho_chi_minh,"10.7763897, 106.7011391"
+80,Long An,Long An,Tỉnh Long An,Long An Province,long_an,"10.6983968, 106.1883517"
+82,Tiền Giang,Tien Giang,Tỉnh Tiền Giang,Tien Giang Province,tien_giang,"10.4030368, 106.361633"
+83,Bến Tre,Ben Tre,Tỉnh Bến Tre,Ben Tre Province,ben_tre,"10.1093637, 106.4811559"
+84,Trà Vinh,Tra Vinh,Tỉnh Trà Vinh,Tra Vinh Province,tra_vinh,"9.8037998, 106.3256808"
+86,Vĩnh Long,Vinh Long,Tỉnh Vĩnh Long,Vinh Long Province,vinh_long,"10.1203043, 106.0125705"
+87,Đồng Tháp,Dong Thap,Tỉnh Đồng Tháp,Dong Thap Province,dong_thap,"10.590424, 105.6802341"
+89,An Giang,An Giang,Tỉnh An Giang,An Giang Province,an_giang,"10.5392057, 105.2312822"
+91,Kiên Giang,Kien Giang,Tỉnh Kiên Giang,Kien Giang Province,kien_giang,"9.9904962, 105.2435248"
+92,Cần Thơ,Can Tho,Thành phố Cần Thơ,Can Tho City,can_tho,"10.0364216, 105.7875219"
+93,Hậu Giang,Hau Giang,Tỉnh Hậu Giang,Hau Giang Province,hau_giang,"9.7985063, 105.6379524"
+94,Sóc Trăng,Soc Trang,Tỉnh Sóc Trăng,Soc Trang Province,soc_trang,"9.5628369, 105.9493991"
+95,Bạc Liêu,Bac Lieu,Tỉnh Bạc Liêu,Bac Lieu Province,bac_lieu,"9.3298341, 105.509946"
+96,Cà Mau,Ca Mau,Tỉnh Cà Mau,Ca Mau Province,ca_mau,"9.0180177, 105.0869724"
